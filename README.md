@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Boguslaw and I'm a seasoned Senior Frontend Developer with over eight years of experience across different industries. I'm your go-to person for all things JavaScript, TypeScript, and the latest frameworks and libraries. I'm always excited about diving into new technologies, especially exploring the possibilities of web3. Plus, I'm a big believer in Agile methodologies to keep things running smoothly and foster great teamwork. Oh, and by the way, I'm open to new opportunities, so let's connect and see how we can work together to create something amazing!
 <!--
 **boguslawdanek/boguslawdanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
