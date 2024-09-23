@@ -3,12 +3,12 @@ I'm a seasoned Senior Frontend Developer with more than eight years of experienc
 <br />
 
 <h2>Favourite tools</h2>
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img align="left" alt="webcomponents" src="https://img.shields.io/badge/webcomponents.org-29ABE2.svg?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" />
-<img align="left" alt="jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" style="pointer-events: none;" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="pointer-events: none;" />
+<img align="left" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" style="pointer-events: none;" />
+<img align="left" alt="webcomponents" src="https://img.shields.io/badge/webcomponents.org-29ABE2.svg?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white" style="pointer-events: none;" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" style="pointer-events: none;" />
+<img align="left" alt="jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" style="pointer-events: none;" />
 
 <br />
 <br />
