@@ -1,5 +1,5 @@
 <h1># Hello World! :blush:</h1>
-I'm a seasoned Senior Frontend Developer with more than eight years of experience in various industries, currently living in Krakow. I love working with JavaScript, TypeScript, and all the cool frameworks and libraries out there. Always up for exploring new tech, especially anything related to web3. And hey, I'm also on the lookout for new opportunities, so let's chat and see if we can team up on something awesome!
+I'm a seasoned Senior Frontend Developer with more than ten years of experience in various industries, currently living in Krakow. I love working with JavaScript, TypeScript, and all the cool frameworks and libraries out there.
 <br />
 
 <h2>Favourite tools</h2>
